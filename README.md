@@ -34,4 +34,4 @@
 
 - 🤝 どうぞよろしくお願いいたします。
 
-- [![项目截图](https://github.com/zwchin08/zwchin08/edit/main/)https://github.com/zwchin08/zwchin08/edit/main/code.gif)](https://chenzhengwei.netlify.app/)
+- [![项目截图](https://github.com/zwchin08/zwchin08/edit/main/code.gif)](https://chenzhengwei.netlify.app/)
