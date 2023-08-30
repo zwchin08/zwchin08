@@ -4,7 +4,7 @@
 
 - :mortar_board:学校では**Java**や**python3**を使用したプログラミングや**データベース**、**Linux**などのSEに関する知識を勉強しました。その中で**Java**や**機械学習**はとても**難しくて**、**大変**でした。自宅では、web関連の**BootStrap**、Python関連の**flask**と**Django**、Javaシルバーなどの知識を独学しました。
 
-- 🌱 今年の勉強について、目標は **Java シルバー**や**基本情報技術者**や**Python 3 エンジニア基礎認定試験**の試験何とかに合格できました。
+- 🌱 今年の資格取得について、 **Java シルバー**や**基本情報技術者**や**Python 3 エンジニア基礎認定試験**の試験何とかに合格できました。
 
 <h3 align> :octocat: GitHubについて</h3>
 
@@ -16,7 +16,7 @@
 
   - **開発**  
 
-    - [**⚡個人サイトの1作成⚡**](https://chenzhengwei-website2.netlify.app/work)
+    - [**⚡個人サイト1の作成⚡**](https://chenzhengwei-website2.netlify.app/work)
 
     - [**😄個人サイト2の作成😄**](https://chenzhengwei.netlify.app)
 
