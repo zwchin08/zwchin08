@@ -8,6 +8,8 @@
 
 <h3 align> :octocat: GitHubについて</h3>
 
+- 😒GitHubの使い方に関しては、まだ**初心者**なんだよね。暇な時に学んだこと（特に**日本語**の勉強や**IT関連**の知識とか）や**考え**をまとめて、みんなとシェアしたいなって思ってるの。みんなからの**アドバイス**とか**手助け**があったら、**超嬉しい**な。
+
 - :memo: こちらのGitHubは、**練習用**のソースコードやメモなどを保存するために、運用しています。
 
 - :sparkles: 現時点のGitHubでは、  
@@ -24,11 +26,13 @@
 
     - [**💻簡単な学生管理システム💻**](https://github.com/zwchin08/StudentManagement)
 
+   などのソースコードを保存し、オープンソースをしています。
+
+- :sparkles: これから定期的にアップデートしていく予定の内容は以下の通りですよ。
+
   - **テキストの勉強**  
 
-  - **日本語の勉強**  
-
-   などのソースコードを保存し、オープンソースをしています。
+  - **日本語の勉強**
 
 <h3 align>  📫  連絡方法</h3>
 
@@ -36,4 +40,4 @@
 
 - 🤝 どうぞよろしくお願いいたします。
 
- <a href="(https://chenzhengwei.netlify.app)"><img align="center" alt="GIF" src="https://github.com/zwchin08/zwchin08/blob/main/code.gif?raw=true" />
+ <a href="https://chenzhengwei.netlify.app"><img align="center" alt="GIF" src="https://github.com/zwchin08/zwchin08/blob/main/code.gif?raw=true" />
