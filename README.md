@@ -25,7 +25,11 @@
     - [**🎮Javaで開発したGUI Game🎮**](https://chenzhengwei.netlify.app)
 
     - [**💻簡単な学生管理システム💻**](https://github.com/zwchin08/StudentManagement)
-
+    
+    - [**🐸YoshidaGakuenWebManagementApplication🐸**](https://github.com/zwchin08/YoshidaGakuen-web-management)
+    
+    - [**今開発しているTranslatorAPP**](https://github.com/zwchin08/TranslatorAPP)
+   
    などのソースコードを保存し、オープンソースをしています。
 
 - :sparkles: これから定期的にアップデートしていく予定の内容は以下の通りですよ。
