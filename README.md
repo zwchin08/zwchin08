@@ -15,6 +15,7 @@
 - :sparkles: 現時点のGitHubでは、  
 
   - **開発のプロジェクトの実例**  
+  
     - [**😄個人サイト2の作成😄**](https://chenzhengwei.netlify.app)
 
     - [**🤖AI技術でレシートの文字認識🤖**](https://github.com/zwchin08/TextRecognition)
